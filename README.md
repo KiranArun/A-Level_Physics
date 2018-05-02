@@ -1,3 +1,14 @@
+### This Work is Incomplete and Will not be Developed Further
+
+This repository holds my work-in-progress notes when I was studying for A-Level exams.
+However, I was also self-studying machine learning and AI concurrently and quickly outgrew the material here, making it irrelevant for me.
+
+Using Jupyter Notebook and GitHub for my study notes worked well with these subjects and allowed me to progress faster than when I used traditional methods, I recommend you try it.
+
+These incomplete notebooks are freely available to anyone.
+
+---
+
 ## AQA
 ### Core content
 - 1  Measurements and their errors
